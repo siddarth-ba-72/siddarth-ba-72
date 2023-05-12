@@ -16,6 +16,9 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
   - [FMCG Supply Chain Data Analysis](https://github.com/siddarth-ba-72/FMCG_Supply_Chain_Data_Analysis)
   - [Hardware company Business Performance Data Analysis](https://github.com/siddarth-ba-72/Hardware_Company_Data_Analytics)
 * Web Development
+  - [Pharma Plus](https://github.com/siddarth-ba-72/PharmaPlus.git)
+  - [Stackoverflow Clone](https://github.com/siddarth-ba-72/Stack_Overflow_Clone.git)
+  - [Leads Manager](https://github.com/siddarth-ba-72/Leads-Managers.git)
 * Machine Learning
 
 ### Skills
