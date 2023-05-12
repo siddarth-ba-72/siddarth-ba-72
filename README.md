@@ -10,6 +10,11 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
 * ✉️  You can contact me at [siddu2002bharat@gmail.com](mailto:siddu2002bharat@gmail.com)
 * 🧠  I'm learning Data Analytics and related tools such as Power BI
 
+### Top Repositories
+* Web Development
+* Data Analytics
+* Machine Learning
+
 ### Skills
 
 
