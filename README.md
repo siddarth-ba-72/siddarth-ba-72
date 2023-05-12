@@ -48,3 +48,5 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
 <a href="http://www.github.com/siddarth-ba-72"><img src="https://github-readme-stats.vercel.app/api?username=siddarth-ba-72&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="siddarth-ba-72's GitHub stats" /></a>
 
 <a href="https://github.com/siddarth-ba-72" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarth-ba-72&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/siddarth-ba-72" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarth-ba-72&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
