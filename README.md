@@ -11,8 +11,11 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
 * 🧠  I'm learning Data Analytics and related tools such as Power BI
 
 ### Top Repositories
-* Web Development
 * Data Analytics
+  - [Telengana State Tourism Data Analysis](https://github.com/siddarth-ba-72/Telengana_State_Tourism_Data_Analytics)
+  - [FMCG Supply Chain Data Analysis](https://github.com/siddarth-ba-72/FMCG_Supply_Chain_Data_Analysis)
+  - [Hardware company Business Performance Data Analysis](https://github.com/siddarth-ba-72/Hardware_Company_Data_Analytics)
+* Web Development
 * Machine Learning
 
 ### Skills
@@ -45,11 +48,3 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
 <a href="http://www.github.com/siddarth-ba-72"><img src="https://github-readme-stats.vercel.app/api?username=siddarth-ba-72&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="siddarth-ba-72's GitHub stats" /></a>
 
 <a href="https://github.com/siddarth-ba-72" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarth-ba-72&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/siddarth-ba-72/PharmaPlus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddarth-ba-72&repo=PharmaPlus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/siddarth-ba-72/react-native-news-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddarth-ba-72&repo=react-native-news-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/siddarth-ba-72/Django-todo-list-with-auth" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddarth-ba-72&repo=Django-todo-list-with-auth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/siddarth-ba-72/Machine_Learning_Data_Science" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddarth-ba-72&repo=Machine_Learning_Data_Science&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>                
