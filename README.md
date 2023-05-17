@@ -19,7 +19,10 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
   - [Pharma Plus](https://github.com/siddarth-ba-72/PharmaPlus.git)
   - [Stackoverflow Clone](https://github.com/siddarth-ba-72/Stack_Overflow_Clone.git)
   - [Leads Manager](https://github.com/siddarth-ba-72/Leads-Managers.git)
-* Machine Learning
+* Data Science
+  - [SONAR Detection](https://github.com/siddarth-ba-72/SONAR_detection)
+  - [Image Caption Generator](https://github.com/siddarth-ba-72/Image_Caption_Generator)
+  - [Machine Learning and Data Science](https://github.com/siddarth-ba-72/Machine_Learning_Data_Science)
 
 ### Skills
 
