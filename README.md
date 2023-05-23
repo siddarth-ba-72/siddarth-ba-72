@@ -12,6 +12,7 @@ AIML UG Student at BMS College of Engineering, Bangalore, 3rd year. Started codi
 
 ### Top Repositories
 * Data Analytics
+  - [Consumer Goods Management Data Analysis](https://github.com/siddarth-ba-72/Management_in_Consumer_Goods.git)
   - [Telengana State Tourism Data Analysis](https://github.com/siddarth-ba-72/Telengana_State_Tourism_Data_Analytics)
   - [FMCG Supply Chain Data Analysis](https://github.com/siddarth-ba-72/FMCG_Supply_Chain_Data_Analysis)
   - [Hardware company Business Performance Data Analysis](https://github.com/siddarth-ba-72/Hardware_Company_Data_Analytics)
