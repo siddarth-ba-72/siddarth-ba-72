@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarth-ba-72&label=Profile%20views&color=0e75b6&style=flat" alt="siddarth-ba-72" /> </p>
 
 
+
 - 🌱 I’m currently learning **Generative AI and MCPs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/siddarth-ba-72](https://github.com/siddarth-ba-72)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/siddarth-ba-72?tab=repositories)
 
 - 💬 Ask me about **Java, Spring boot**
 
