@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarth-ba-72&label=Profile%20views&color=0e75b6&style=flat" alt="siddarth-ba-72" /> </p>
 
+
 - 🌱 I’m currently learning **Generative AI and MCPs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddarth-ba-72](https://github.com/siddarth-ba-72)
@@ -10,6 +11,8 @@
 - 💬 Ask me about **Java, Spring boot**
 
 - 📫 How to reach me **siddarth.ba02@gmail.com**
+
+- [Portfolio](https://siddarth-ba-72.vercel.app/)
 
 <h3>Connect with me:</h3>
 <table>
